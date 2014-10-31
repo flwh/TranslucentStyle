@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">半透明风格</string>
+    <string name="prefix_version">版本</string>
+    <string name="copyright_info">"Created by Woalk Software
+xda-developers user woalk"</string>
+    <string name="descr_status">状态栏:</string>
+    <string name="descr_nav">导航栏:</string>
+    <string name="btn_restart_systemui">重启状态栏应用更改</string>
+    <string name="title_restart">重启状态栏</string>
+    <string name="msg_restart">"你想重新启动状态栏应用更改?
+"<i>(需要root权限并安装BusyBox)</i></string>
+    <string name="str_edit">定制…</string>
+    <string name="descr_alpha">不透明度:</string>
+    <string name="descr_red">红色:</string>
+    <string name="descr_green">绿色:</string>
+    <string name="descr_blue">蓝色:</string>
+    <string name="descr_hex">颜色代码:</string>
+    <string name="descr_predef">默认:</string>
+    <string name="str_no_change">什么都没修改</string>
+    <string name="str_kitkat">KitKat 渐变效果</string>
+    <string name="str_gradient">自定义渐变效果</string>
+    <string name="str_nothing">完全透明</string>
+    <string name="str_solid">Solid</string>
+    <string name="str_sense5">Sense 5</string>
+    <string name="str_carblend">“CarBlend”</string>
+    <string name="str_halo">“Halo” gradient</string>
+    <string name="str_bracket">“Bracket” gradient</string>
+    <string name="str_cutter">“Cutter”</string>
+    <string name="str_xperia">Xperia</string>
+    <string name="str_android_l">Android “L”</string>
+    <string name="str_sense6">Sense 6</string>
+    <string name="str_custom">自定义</string>
+    <string name="str_check_res1">Try replacing the AOSP resource</string>
+    <string name="str_check_res2">Try replacing the HTC resource</string>
+    <string name="str_check_m">Try replacing the variable</string>
+    <string name="hint_hex">\#AARRGGBB</string>
+    <string name="str_check_cm">Try replacing CyanogenMod variable</string>
+</resources>
